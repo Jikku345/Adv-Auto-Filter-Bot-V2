@@ -74,12 +74,13 @@ You can deploy this bot anywhere.
 <p>
 <br>
 <a href="https://github.com/Jikku345/Adv-Auto-Filter-Bot-V2">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy?template=https://github.com/Jikku345/Adv-Auto-Filter-Bot-V2.git ">
 </a>
 </p>
 </details>
-
-<details><summary>Deploy To VPS</summary>
+</br
+<details><summary>Deploy To VPS</summary
+  >
 <p>
 <pre>
 git clone https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2
